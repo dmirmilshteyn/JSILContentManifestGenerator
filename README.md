@@ -12,7 +12,7 @@ This application will generate a content manifest for all files in the specified
 
  The generated file will be placed in ```Content.manifest.js```.
  
- ### Example
+ ## Example
  
  ```./JSILContentManifestGenerator.exe --base "C:\Content" --paths "Assets" "Configuration"```
  
